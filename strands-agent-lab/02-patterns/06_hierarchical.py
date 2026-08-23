@@ -75,7 +75,7 @@ ceo = Agent(
 
 
 if __name__ == "__main__":
-    ceo("Produce a one-sentence marketing blurb for a reusable steel water bottle.")
+    ceo("Produce a one-sentence marketing blurb for a durable backpack.")
 
 
 # ── How to run ────────────────────────────────────────────────────────────
