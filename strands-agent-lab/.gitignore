@@ -1,7 +1,10 @@
-.venv/
-node_modules/
+# Python-generated files
 __pycache__/
-*.pyc
-.DS_Store
-agentcore/.env.local
-agentcore/.cli/deployed-state.json
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
